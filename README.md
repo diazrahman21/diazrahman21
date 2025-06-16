@@ -18,6 +18,13 @@
   <img src="https://img.shields.io/github/stars/diazrahman21?label=Stars&style=flat-square" />
 </p>
 
+
+
+
+
+
+
+
 ---
 
 ### 🔥 About Me
@@ -101,11 +108,45 @@
 
 ---
 
-### ⚡ GitHub Metrics Dashboard
+### ⚡ GitHub Analytics & Insights
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/diazrahman21?template=classic&config.timezone=Asia%2FJakarta&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&followup=1&reactions=1&habits=1&achievements=1&notable=1&discussions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=14&reactions.display=absolute&reactions.details=count%2C%20percentage&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FJakarta" width="100%"/>
-</p>
+<div align="center">
+
+<!-- GitHub Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diazrahman21&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Stats Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diazrahman21&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diazrahman21&theme=tokyonight&utc_offset=7" alt="Productive Time" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Languages and Repos -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diazrahman21&theme=tokyonight" alt="Repos per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diazrahman21&theme=tokyonight" alt="Most Commit Language" width="48%"/>
+
+</div>
+
+### 📊 Advanced GitHub Metrics
+
+<div align="center">
+
+<!-- Comprehensive Metrics (Fallback) -->
+<details>
+<summary><b>📈 Click to view detailed metrics</b></summary>
+<br>
+
+<img src="https://raw.githubusercontent.com/diazrahman21/diazrahman21/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%"/>
+
+</details>
+
+</div>
 
 ---
 
@@ -125,11 +166,13 @@
 
 ---
 
-### 🎉 Fun Facts & Now Playing
+### 🎉 Fun Facts & Hobbies
 
-- 🏄‍♂️ I love surfing tech trends and learning new things every week.
+- 💻 **Passionate Coder:** I can spend hours coding and debugging - it's my meditation!
+- 🚴‍♂️ **Cycling Enthusiast:** Love exploring new routes on my bike, fresh air = fresh ideas
+- 🏃‍♂️ **Running Addict:** Morning runs fuel my creativity and keep my mind sharp
 - 🎵 Now playing: <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3w3w3w3w3w3w3w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" width="200" />
-- 🧩 I enjoy solving CTFs and logic puzzles in my free time.
+- 🧩 When not coding or exercising, I enjoy solving CTFs and security challenges
 
 ---
 
