@@ -9,7 +9,7 @@
 <h3 align="center">⚡ Fullstack Developer | 🛡️ Cyber Security Enthusiast | 🧠 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Creating+Secure+%26+Scalable+Web+Applications.;Coding+with+Purpose%2C+Securing+with+Passion.;Fullstack+%7C+React+Node+Express+Tailwind+%7C+CyberSec+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Creating+Secure+%26+Scalable+Web+Applications.;Coding+with+Purpose%2C+Securing+with+Passion.;Fullstack+%7C+React+Node+Express+Tailwind+%7C+CyberSec+%7C+CTF+Player" alt="Typing SVG" />
 </p>
 
 <br><br>
