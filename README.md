@@ -13,9 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diazrahman21&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/diazrahman21?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/diazrahman21?label=Stars&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=diazrahman21&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/diazrahman21?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/diazrahman21?label=TOTAL+STARS&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20CyberSec-brightgreen?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge&logo=googlemaps" alt="Location"/>
 </p>
 
 
@@ -23,8 +29,11 @@
 
 
 
----
----
+
+
+
+
+
 ---
 
 ### 🔥 About Me
