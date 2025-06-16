@@ -1,3 +1,8 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="banner" width="100%"/>
+</p>
+
 <!-- HEADER ANIMASI -->
 <h1 align="center">🚀 Welcome to My Universe 👨‍💻</h1>
 <h2 align="center">I'm Muh Diaz Nazarudin Rahman</h2>
@@ -7,10 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Creating+Secure+%26+Scalable+Web+Applications.;Coding+with+Purpose%2C+Securing+with+Passion.;Fullstack+%7C+React+Node+Express+Tailwind+%7C+CyberSec+%7C+CTF+Player" alt="Typing SVG" />
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diazrahman21&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/diazrahman21?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/diazrahman21?label=Stars&style=flat-square" />
+</p>
 
 ---
 
@@ -51,6 +57,13 @@
 
 ---
 
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diazrahman21&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -88,7 +101,15 @@
 
 ---
 
-### 🎉 Bonus: Just for Fun!
+### 🎉 Fun Facts & Now Playing
+
+- 🏄‍♂️ I love surfing tech trends and learning new things every week.
+- 🎵 Now playing: <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3w3w3w3w3w3w3w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" width="200" />
+- 🧩 I enjoy solving CTFs and logic puzzles in my free time.
+
+---
+
+### 💡 Bonus: Just for Fun!
 
 ```javascript
 const profile = {
@@ -97,3 +118,4 @@ const profile = {
   currentFocus: "Cloud Security & ML Web Deployment",
   loves: ["Open Source", "Capture The Flag", "Building MVPs"],
 }
+```
