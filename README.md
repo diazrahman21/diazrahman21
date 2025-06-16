@@ -23,8 +23,8 @@
 
 
 
-
-
+---
+---
 ---
 
 ### 🔥 About Me
@@ -133,28 +133,7 @@
 
 </div>
 
-### 🌟 GitHub Highlights
 
-<div align="center">
-
-<!-- Contribution Streak with Fire -->
-<img src="https://streak-stats.demolab.com/?user=diazrahman21&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=diazrahman21&repo=diazrahman21&theme=tokyonight&hide_border=true" alt="Profile Repo" width="49%"/>
-
-<details>
-<summary><b>🎯 More GitHub Insights</b></summary>
-<br>
-
-<!-- Detailed Contribution Grid -->
-<img src="https://ghchart.rshah.org/70a5fd/diazrahman21" alt="Contribution Chart" width="100%"/>
-
-<br><br>
-
-<!-- Coding Time Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazrahman21&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" alt="Top Languages Donut" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=diazrahman21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Stats" alt="Complete Stats" width="48%"/>
-
-</details>
 
 </div>
 
