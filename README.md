@@ -9,8 +9,13 @@
 <h3 align="center">⚡ Fullstack Developer | 🛡️ Cyber Security Enthusiast | 🧠 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Creating+Secure+%26+Scalable+Web+Applications;💻+Coding+with+Purpose%2C+Securing+with+Passion;⚡+Fullstack+Developer+%7C+CyberSec+Enthusiast;🛡️+React+%7C+Node.js+%7C+Express+%7C+PostgreSQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Creating+Secure+%26+Scalable+Web+Applications.;Coding+with+Purpose%2C+Securing+with+Passion.;Fullstack+%7C+React+Node+Express+Tailwind+%7C+CyberSec+%7C+CTF+Player" alt="Typing SVG" />
 </p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diazrahman21&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile views"/>
