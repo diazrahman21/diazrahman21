@@ -77,10 +77,26 @@
 
 ---
 
-### 🐍 Contribution Snake (I'm Always Moving)
+### � GitHub Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diazrahman21/diazrahman21/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diazrahman21&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 🎯 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/svg?username=diazrahman21&theme=tokyonight" width="100%"/>
+</p>
+
+---
+
+### ⚡ GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/diazrahman21?template=classic&config.timezone=Asia%2FJakarta&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&followup=1&reactions=1&habits=1&achievements=1&notable=1&discussions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=14&reactions.display=absolute&reactions.details=count%2C%20percentage&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FJakarta" width="100%"/>
 </p>
 
 ---
