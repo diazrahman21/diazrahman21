@@ -1,67 +1,79 @@
 <h1 align="center">Hi 👋, I'm Muh Diaz Nazarudin Rahman</h1>
-<h3 align="center">A Passionate Fullstack Developer & Cyber Security Enthusiast</h3>
+<h3 align="center">💻 Fullstack Developer | 🛡️ Cyber Security Enthusiast | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="muhdiaz" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+ideas+into+secure+web+experiences.;Fullstack+Developer+%7C+React+%2F+Node.js+%2F+PostgreSQL.;Cyber+Security+Enthusiast+%7C+Bug+Hunter+%7C+CTF+Player." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🔍 About Me
 
-- 🔭 Currently working on **Cardiorisk Predictor** — a health innovation project using ML and web technologies  
-- 🌱 I’m currently learning **Advanced Security Auditing & Web Vulnerability Testing**
-- 💬 Ask me about **React, Node.js, Express, PostgreSQL, Web Security, and REST APIs**
-- 🛡️ I enjoy exploring **Capture The Flag (CTF)** challenges and learning about **ethical hacking**
-- 📫 How to reach me: **muhdiazrahman@gmail.com**
-- ⚡ Fun fact: I love blending creative UI with secure backend systems
-
----
-
-### 🧰 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-2D2D2D?style=flat&logo=owasp)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat)
+- 🌐 A passionate **Fullstack Web Developer** who loves building powerful and responsive web apps.
+- 🛡️ **Cyber Security Enthusiast** exploring ethical hacking, web vulnerability testing, and CTF challenges.
+- 🔭 Currently developing **Cardiorisk Predictor**, a web app combining ML and health innovation.
+- 💡 Always learning, especially about **Secure Coding**, **API Security**, and **Authentication systems**.
+- 📫 Reach me at: **muhdiazrahman@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Tech Stack
+
+#### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+#### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+#### 🛡️ Cyber Security Tools
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-ff5722?style=flat&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-2D2D2D?style=flat&logo=owasp)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhdiaz&show_icons=true&theme=radical" alt="muhdiaz stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdiaz&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhdiaz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdiaz&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🧠 Currently Learning
 
-<p align="left">
+- 🔐 Web Application Pentesting & Secure Coding
+- ☁️ Cloud Security Fundamentals
+- 🧠 TensorFlow.js & Deployment of ML Models in Web
+
+---
+
+### 🌐 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/muhdiaz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhdiazrahman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/muhdiaz">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=flat" />
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🐍 Activity Snake
+
+![snake gif](https://github.com/muhdiaz/muhdiaz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
