@@ -85,10 +85,18 @@
 
 ---
 
-### 🎯 3D Contribution Calendar
+### 🎯 GitHub Skyline (3D Contributions)
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/svg?username=diazrahman21&theme=tokyonight" width="100%"/>
+  <a href="https://skyline.github.com/diazrahman21/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+  </a>
+</p>
+
+### 📊 Detailed Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/diazrahman21" alt="GitHub Contribution Chart" width="100%"/>
 </p>
 
 ---
@@ -104,13 +112,13 @@
 ### 🎯 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhdiaz" target="_blank">
+  <a href="https://www.linkedin.com/in/muh-diaz-nazarudin-rahman-0aa85a2a0/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:muhdiazrahman@gmail.com">
+  <a href="mailto:diazrahman26@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/muhdiaz" target="_blank">
+  <a href="https://github.com/diazrahman21" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge" />
   </a>
 </p>
