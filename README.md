@@ -137,14 +137,14 @@
 
 <div align="center">
 
-<!-- Comprehensive Metrics (Fallback) -->
-<details>
-<summary><b>📈 Click to view detailed metrics</b></summary>
-<br>
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diazrahman21&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/diazrahman21/diazrahman21/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%"/>
+<br><br>
 
-</details>
+<!-- WakaTime Stats (if you want to add later) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=diazrahman21&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diazrahman21&theme=tokyonight" alt="Profile Details" width="48%"/>
 
 </div>
 
