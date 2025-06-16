@@ -49,12 +49,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhdiaz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhdiaz&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diazrahman21&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diazrahman21&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdiaz&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazrahman21&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🐍 Contribution Snake (I'm Always Moving)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhdiaz/muhdiaz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/diazrahman21/diazrahman21/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
